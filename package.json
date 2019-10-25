@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "moment": "^2.24.0",
+    "nearest-date": "^1.0.1",
     "react": "^16.11.0",
+    "react-circular-progressbar": "^2.0.2",
     "react-dom": "^16.11.0",
     "react-load-image": "^0.1.7",
     "react-scripts": "3.2.0"
