@@ -1,9 +1,13 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: relative;
 }
 
-.App-logo {
-  height: 40vmin;
+.App div {
+  flex-grow: 0.2;
 }
 
 .App-header {
