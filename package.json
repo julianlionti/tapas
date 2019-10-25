@@ -3,11 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@date-io/moment": "^1.3.11",
+    "@material-ui/core": "^4.5.1",
+    "@material-ui/pickers": "^3.2.7",
     "moment": "^2.24.0",
     "nearest-date": "^1.0.1",
     "react": "^16.11.0",
+    "react-awesome-slider": "^2.0.1",
     "react-circular-progressbar": "^2.0.2",
     "react-dom": "^16.11.0",
+    "react-image": "^2.2.1",
     "react-load-image": "^0.1.7",
     "react-scripts": "3.2.0"
   },
